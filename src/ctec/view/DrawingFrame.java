@@ -19,7 +19,7 @@ public class DrawingFrame extends JFrame
 	{
 		this.setContentPane(basePanel);
 		this.setTitle("Drawing stuff in java");
-		this.setSize(500,500);
+		this.setSize(800,800);
 		this.setVisible(true);
 	}
 }
